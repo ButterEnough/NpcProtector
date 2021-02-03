@@ -14,3 +14,7 @@ During patching, it goes through all NPCs and checks if they are in the list and
 ## Expansion
 
 If you want to add NPCs, you have to add them to the source code at the moment, in the future, I hope to extract them to a separate file that users can easily modify, that is if I can be bothered since I am lazy.
+
+## Editor	
+
+Just my first ever attempt at GitHub-removed Grelod (Grelod the Kind) from the list so mods like "Innocence Lost Alternative" can proceed as designed.
