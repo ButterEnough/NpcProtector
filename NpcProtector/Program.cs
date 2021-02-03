@@ -375,7 +375,6 @@ namespace EnemyReleveler
             "GormlaithGoldenHilt",
             "Gralnach",
             "Grelka",
-            "Grelod",
             "Greta",
             "Grimvar",
             "Grisvar",
